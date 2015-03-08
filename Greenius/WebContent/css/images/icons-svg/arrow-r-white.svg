@@ -1,0 +1,7 @@
+ools.result.resultView" toBeRendered="false" ref="_9EuTGMVhEeSakuPX8rsqUg"/>
+              <children xsi:type="advanced:Placeholder" xmi:id="_9EuQx8VhEeSakuPX8rsqUg" elementId="org.eclipse.jdt.debug.ui.DisplayView" toBeRendered="false" ref="_9EuTGcVhEeSakuPX8rsqUg"/>
+              <children xsi:type="advanced:Placeholder" xmi:id="_9EuQyMVhEeSakuPX8rsqUg" elementId="org.eclipse.search.SearchResultView" toBeRendered="false" ref="_9EuTXsVhEeSakuPX8rsqUg"/>
+              <children xsi:type="advanced:Placeholder" xmi:id="_9EuQycVhEeSakuPX8rsqUg" elementId="org.eclipse.ui.views.ProgressView" ref="_9EuSi8VhEeSakuPX8rsqUg"/>
+            </children>
+          </children>
+    

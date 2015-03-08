@@ -1,0 +1,7 @@
+9EuSM8VhEeSakuPX8rsqUg"/>
+              <children xsi:type="basic:PartStack" xmi:id="_9EuQ08VhEeSakuPX8rsqUg" elementId="bottom" containerData="8100" selectedElement="_9EuQ2sVhEeSakuPX8rsqUg">
+                <tags>newtablook</tags>
+                <tags>org.eclipse.e4.secondaryDataStack</tags>
+                <children xsi:type="advanced:Placeholder" xmi:id="_9EuQ1MVhEeSakuPX8rsqUg" elementId="org.eclipse.ui.views.PropertySheet" ref="_9EuSRMVhEeSakuPX8rsqUg"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_9EuQ1cVhEeSakuPX8rsqUg" elementId="org.eclipse.team.ui.GenericHistoryView" ref="_9EuTksVhEeSakuPX8rsqUg"/>
+                <childre
